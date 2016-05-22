@@ -1,0 +1,25 @@
+{
+  "name": "consynki/yii2-dropboc",
+  "description": "A Yii2 Dropbox wrapper allowing you to add dropbox as a component",
+  "type": "yii2-extension",
+  "keywords": ["dropboc", "file", "yii2"],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Levi Putna",
+      "email": "levi.putna@consynki.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*",
+    "dropbox/dropbox-sdk": "1.1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "consynki\\yii\\dropbox\\": "src/"
+    }
+  }
+}
