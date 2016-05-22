@@ -1,5 +1,5 @@
 {
-  "name": "consynki/yii2-dropboc",
+  "name": "consynki/yii2-dropbox",
   "description": "A Yii2 Dropbox wrapper allowing you to add dropbox as a component",
   "type": "yii2-extension",
   "keywords": ["dropboc", "file", "yii2"],
